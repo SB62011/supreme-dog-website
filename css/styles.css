@@ -1,0 +1,223 @@
+
+
+
+#title{
+
+  background-color: #ff4c68;
+}
+
+#features{
+
+  text-align: center;
+  padding: 150px 200px 200px 200px;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.title-img{
+position: absolute;
+bottom: 50px;
+  width: 60%;
+  z-index: -1;
+bottom: -220px;
+
+
+}
+#testimonials{
+
+  text-align: center;
+
+  background-color: #ef8172;
+  color: #fff;
+
+}
+
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.card-header{
+  background-color: black;
+}
+#cta{
+
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 7% 3%;
+
+
+
+
+}
+.cta-text{
+font-size: 2.5rem;
+color: white;
+
+}
+
+.pricing-column{
+
+margin: 5% 0 ;
+
+}
+.carousel-item{
+  padding: 100px 150px 100px 150px;
+
+}
+
+.b{
+  width: 15rem;
+  margin: 10% 15%;
+}
+
+.carousel-inner{
+  height: 600px;
+}
+#press{
+text-align: center;
+padding-bottom: 3%;
+background-color: #ef8172;
+
+
+}
+
+.press-logo{
+width: 15%;
+margin: 30px 30px 50px
+
+}
+
+
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+
+
+}
+h2{
+  line-height:1.5;
+  font-size: 3rem;
+  font-family: Montserrat;
+  font-weight: bold;
+
+
+
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+font-weight: 700;
+font-size: 3.5rem;
+line-height: 1.5;
+color: white;
+}
+
+h3{
+
+  font-family: "Montserrat";
+  font-weight: 700;
+
+
+}
+.card-heading{
+  color:white;
+
+}
+.ffas{
+  font-size: 3.5rem;
+  color: #ef8172;
+  margin: 20px;
+
+}
+
+.ffas:hover{
+
+  color: #ff4c68;
+}
+p{
+  color: #8f8f8f;
+  margin: 0 30px;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.nav-item{
+  margin : 30px;
+  font-size: 1.2rem;
+}
+
+.rotated{
+  transform: rotate(15deg);
+margin-top: 50px;
+padding-left: 50px;
+margin-right: auto;
+}
+
+
+body{
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+
+
+}
+
+.navbar{
+
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Ubuntu;
+
+}
+
+
+
+
+/* Download buttons */
+
+
+.download-button{
+  margin : 5% 3% 5% 0;
+}
+
+@media(max-width: 1233px) {
+  .title-img{
+    position: static;
+
+
+  }
+  .rotated{
+    transform: rotate(0);
+  }
+
+  .container-fluid{
+    text-align: center;
+
+  }
+
+}
+.cta-btn{
+  margin-top: 30px;
+  margin-right: 1%;
+}
+
+#footer{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.footer-link{
+  color: black;
+}
+.footer-link:hover{
+  color: grey;
+}
+.footer-link:active{
+  color: pink;
+}
+/* title image */
